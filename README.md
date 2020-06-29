@@ -4,7 +4,7 @@ Supplementary Material for Diameter Polytopes of Feasible Binary Programs
 * [Thomas R. Cameron](https://thomasrcameron.com)
 	* Mathematics Department, Penn State Behrend
 	* [Email: trc5475@psu.edu](mailto:trc5475@psu.edu)
-* [Sebastian Charmot]
+* [Sebastian Charmot](Undergraduate Research at Davidson College)
 	* [Email: secharmot@davidson.edu](mailto:secharmot@davidson.edu)
 * [Jonad Pulaj](https://jonadpulaj.com)
 	* Mathematics and Computer Science Department, Davidson College
