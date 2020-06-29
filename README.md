@@ -1,6 +1,6 @@
 # Diameter-Polytopes
 Supplementary Material for Diameter Polytopes of Feasible Binary Programs
-##Authors
+## Authors
 * [Thomas R. Cameron](https://thomasrcameron.com)
 	* Mathematics Department, Penn State Behrend
 	* [Email: trc5475@psu.edu](mailto:trc5475@psu.edu)
